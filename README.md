@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B03720?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Learning Tableau
 Thanks for downloading the code repository for the book, [Learning Tableau] (https://www.packtpub.com/big-data-and-business-intelligence/learning-tableau?utm_source=github&utm_medium=repository&utm_campaign=9781784391164), published by [Packt Publishing] (https://www.packtpub.com/?utm_source=github&utm_medium=repository&utm_campaign=9781784391164) in April 2015.
 
