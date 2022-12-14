@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781784391164)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Learning Tableau
 Thanks for downloading the code repository for the book, [Learning Tableau] (https://www.packtpub.com/big-data-and-business-intelligence/learning-tableau?utm_source=github&utm_medium=repository&utm_campaign=9781784391164), published by [Packt Publishing] (https://www.packtpub.com/?utm_source=github&utm_medium=repository&utm_campaign=9781784391164) in April 2015.
 
