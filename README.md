@@ -2,7 +2,7 @@
 
 
 # Learning Tableau
-Thanks for downloading the code repository for the book, [Learning Tableau] (https://www.packtpub.com/big-data-and-business-intelligence/learning-tableau?utm_source=github&utm_medium=repository&utm_campaign=9781784391164), published by [Packt Publishing] (https://www.packtpub.com/?utm_source=github&utm_medium=repository&utm_campaign=9781784391164) in April 2015.
+Thanks for downloading the code repository for the book, [Learning Tableau] (https://www.packtpub.com/en-us/product/learning-tableau-9781784394349), published by [Packt Publishing] (https://www.packtpub.com/?utm_source=github&utm_medium=repository&utm_campaign=9781784391164) in April 2015.
 
 
 ## Before getting started
